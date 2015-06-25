@@ -1,0 +1,8 @@
+{ 
+    "nl" : { 
+                "fullText" : "Nederlands" 
+           }, 
+    "en" : { 
+                "fullText" : "English" 
+           } 
+}

@@ -1,0 +1,6 @@
+program started at00:58:32:000000
+ message: construct.
+ message: updateData.
+ message: updateData.
+ message: getDir.
+program ended at 00:58:32:000000

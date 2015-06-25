@@ -1,0 +1,2 @@
+start:00:05:22 REMOTE_ADDR: ::1  REQUEST_URI: /gameDevelopment/gameDevelopment/?app=spaceInvaders&lang=nl  HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0  SERVER_SOFTWARE: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.11 session:65ia0ttb9s3bant3v6qkk0rmp7 
+start:22:02:45 REMOTE_ADDR: ::1  REQUEST_URI: /gameDevelopment/gameDevelopment/?app=spaceInvaders&lang=nl  HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0  SERVER_SOFTWARE: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.11 session:k1gdd2lv8kdtu9vrgss1nr42e7 

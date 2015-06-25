@@ -1,0 +1,27 @@
+
+.panelTitle {
+    color: #25408f;
+    font-family: Tahoma, Arial,Liberation Sans,DejaVu Sans,sans-serif;
+    background-color:transparent;
+    background-image: url(../images/panelBullet.png);
+    background-repeat:no-repeat;
+    background-position-y:8px;
+    margin-left:80px;
+    margin-bottom:20px;
+    margin-top:80px;
+    padding-left:40px;
+    font-size: 1.6em;
+    text-align: left;
+}
+
+.panelText {
+    color: #25408f;
+    font-family: Tahoma, Arial,Liberation Sans,DejaVu Sans,sans-serif;
+    font-size: 1.1em;
+    text-align: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-left:130px;
+    
+}
+

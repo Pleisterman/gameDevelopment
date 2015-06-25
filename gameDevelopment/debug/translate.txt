@@ -1,0 +1,5 @@
+program started at00:58:32:000000
+ message: subject:papierSteenSchaar
+ message: ids:appTitle,introText,nameLabel,defaultUserName
+ message: language:en
+program ended at 00:58:32:000000

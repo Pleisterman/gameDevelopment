@@ -1,0 +1,12 @@
+{ 
+    "nl" : [ "Welkom bij het testink gedeelte van mijn gameDevelopment project",
+             "",
+             "Go and find the bug. ",
+             "",
+             "Succes." ], 
+    "en" : [ "Welcome to the testink part of my gameDevelopment project",
+             "",
+             "Go and find the bug. ",
+             "",
+             "Good luck." ]
+}

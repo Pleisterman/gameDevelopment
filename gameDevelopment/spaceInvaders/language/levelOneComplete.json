@@ -1,0 +1,23 @@
+{ 
+    "nl" : [ "Dat was geweldig!", 
+             "", 
+             "U heeft de aanval weten af te slaan.", 
+             "", 
+             "We bewonderen uw moed, inzet en strategie.", 
+             "Uw succes is onder onze aandacht.", 
+             "", 
+             "We kunnen u goed gebruiken in een volgende missie.", 
+             "", 
+             "Bedankt.", 
+             "" ], 
+    "en" : [ "That was excellent", 
+             "", 
+             "You have succesfully countered the attack.", 
+             "", 
+             "We admire your courage, motivation and strategy.", 
+             "Your succes has our attention.", 
+             "", 
+             "We could really use you in a next mission.", 
+             "", 
+             "Thanks." ]
+}

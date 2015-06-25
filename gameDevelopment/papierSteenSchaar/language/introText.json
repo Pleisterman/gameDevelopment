@@ -1,0 +1,14 @@
+{ 
+    "nl" : [ "Kies een stategie voor de computer en kijk of je hem kunt verslaan.",
+             "Er zijn verschillende mogelijkheden van makkelijk tot moeilijk.",
+             "De schaar wint van het papier, het papier wint van de steen en de steen wint van de schaar.",
+             "Heb je alletwee hetzelfde dan wint er niemand.",
+             "",
+             "Succes." ], 
+    "en" : [ "Choose a strategy for the computer and see if you can beat it.",
+             "There are several levels from easy to difficult.",
+             "Scissors beats paper, paper beats rock and rock beats scissors.",
+             "If both draw the same hand nobody wins.",
+             "",
+             "Good luck." ]
+}

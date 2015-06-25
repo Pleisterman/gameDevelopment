@@ -1,0 +1,16 @@
+{ 
+    "nl" : [ "Dit spel is nog in ontwikkeling.",
+             "",
+             "Space Invaders is een arcadespel, ontworpen in 1978 door Toshihiro Nishikado.",
+             "Je bestuurt een laserkanon dat links en rechts beweegt aan de onderkant van het scherm.",
+             "Rijen aliens bewegen heen en weer, tevens langzaam van boven naar beneden bewegend. ",
+             "Als een van de wezens de onderkant van het scherm bereikt is het spel afgelopen.",
+             "Succes." ], 
+    "en" : [ "This game is under development.",
+             "",
+             "Space Invaders is an arcade game, designed in 1978 by Toshihiro Nishikado.",
+             "You control a ship that moves left and right at the bottom of the screen.",
+             "Rows aliens move back and forth, at the same time from top to bottom slowly moving. ",
+             "If one of the creatures to reach the bottom of the screen the game is over.",
+             "Succes." ]
+}
