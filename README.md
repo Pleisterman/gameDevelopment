@@ -1,14 +1,14 @@
 # gameDevelopment
 
-Game development platform in Javascript revealing module pattern
+Game development platform in Javascript Revealing Module Pattern
 
 This repsository contains two games,
 
 Paper Rock and Scissors and Space Invaders.
 
-The games wre written in html5 and make use of canvas.
+The games are written in html5 and make use of canvas.
 
-THe whole project contains the basic functionality of a whole site:
+The whole project contains the basic functionality of a whole site:
 
 Includes:
 
@@ -17,13 +17,13 @@ session handling, reusability, custom event handling, debugging for php and java
 
 The code is extensively commented to make learning and developing as easy as possible.
 
-put the whole project in a dirrectory on your server and open de index.php that's it.
+put the whole project in a directory on your server and open de index.php that's it.
 
 The Rock, Paper and Scissors game has sounds and is complete,
 
 the space invaders game is complete but contains no sounds.
 
-You can play the games at:http://localhost:81/github/gameDevelopment/gameDevelopment/?lang=en
+You can play the games at: http://localhost:81/github/gameDevelopment/gameDevelopment/?lang=en
 
 Feel free to contact me if you have any questions.
 
