@@ -67,12 +67,13 @@
             data['procesId'] = self.nextProcesId;
             self.debug( 'post url: ' + url );
             // create the proces structure
-            var proces = {  'id'   : self.nextProcesId++,
+            var proces = {  'id'   : self.nextProcesId,
                             'url'  : url,
                             'data' : data,
                             'callback' : callback };
             // add the proces to the array
             self.processes[proces['id']] = proces;
+            self.nextProcesId++;
             // make the call
             $.ajax({
                 type: "POST",
